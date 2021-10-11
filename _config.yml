@@ -1,7 +1,7 @@
 # Basic
 title: whoami
 subtitle: echo '计较零点一秒'
-welcome_message: <a href="#" target="_blank">粤ICP备19095116号</a>
+welcome_message: <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备19095116号</a>
 description: Strive to be irreplaceable.
 
 creator: <a href="http://onev.cat">@onevcat</a>
